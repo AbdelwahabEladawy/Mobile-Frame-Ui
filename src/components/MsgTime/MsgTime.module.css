@@ -1,0 +1,13 @@
+.Msg{
+    padding: 0;
+    position: absolute;
+    background-color: #deded1;
+    bottom: 80%;
+    left: 38%;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 0px 20px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    
+}

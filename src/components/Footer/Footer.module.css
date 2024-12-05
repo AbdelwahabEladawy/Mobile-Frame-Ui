@@ -1,0 +1,54 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+
+.footerSec{
+    position: absolute;
+    width: 100%;
+    height: 60px;
+    bottom:0;
+    background-color: #f4f4f4;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+border-top: 2px solid rgba(128, 128, 128, 0.103);
+}
+.footerIcons{
+    position: absolute;
+    top: 5%;
+    right:4%;
+}
+.plus{
+    position: absolute;
+    top: 15%;
+    left: 8%;
+}
+
+.messageInput{
+    width: 165px;
+    height: 22px;
+    border-radius: 8px;
+   border: 2px solid rgba(128, 128, 128, 0.103);
+    position: absolute;
+    top: 12%;
+    left: 16%;
+    padding-right: 0px;
+    background: #fff;
+    box-shadow: .5px .5px .5px .5px rgba(128, 128, 128, 0.126)
+}
+.sticker {
+    width: 12px;
+}
+
+
+.backBtn{
+    position: absolute;
+width: 100px;
+height: 5px;
+top: 75%;
+left: 30%;
+background-color: black;
+border-radius: 5px;
+
+}
